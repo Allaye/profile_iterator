@@ -38,6 +38,16 @@ const data = [
         image: 'https://randomuser.me/api/portraits/women/46.jpg'
 
     },
+
+    {
+        name: 'Man no name',
+        age: 66,
+        gender: 'binary',
+        lookingfor: 'No one',
+        location: 'Italy',
+        image: 'https://randomuser.me/api/portraits/men/66.jpg'
+
+    },
 ];
 
 
