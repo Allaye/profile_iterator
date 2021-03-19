@@ -35,7 +35,7 @@ const data = [
         gender: 'male',
         lookingfor: 'women',
         location: 'London',
-        image: 'https://randomuser.me/api/portraits/women/46.jpg'
+        image: 'https://randomuser.me/api/portraits/women/16.jpg'
 
     },
 
